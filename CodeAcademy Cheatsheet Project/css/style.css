@@ -1,0 +1,33 @@
+h1, th {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-color: Azure;
+  font-size: 20px;
+  font-family: Courier;
+}
+
+th {
+  font-size: 125%;
+}
+
+table, th, td {
+  border: 2px solid black;
+  vertical-align: top;
+}
+
+p {
+  font-weight: bold;
+  text-align: left;
+  color: white;
+}
+
+th, td {
+  padding: 5px;
+}
+
+th, p, h1 {
+  background-color: black;
+}
